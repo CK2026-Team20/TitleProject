@@ -24,11 +24,11 @@
 1. **메인 브랜치 규칙**
    - 첨부된 규칙 설정(`메인 브랜치 PR 규칙`)에 의거하여, `main` 브랜치는 직접적인 푸시가 불가능합니다.
    - 모든 변경 사항은 반드시 Pull Request를 거쳐야 하며, 강제 푸시(Force Push) 및 삭제가 차단됩니다.
-   - ![메인 브랜치 PR 규칙](image_c3fa83.png)
+   - [메인 브랜치 PR 규칙](https://github.com/CK2026-Team20/TitleProject/rules/22382772?ref=refs%2Fheads%2Fmain)
 
 2. **직군별 브랜치 접근 제한 규칙**
    - 첨부된 규칙 설정(`타 직군 브랜치 접근 제한`)에 의거하여, 지정된 예외 권한을 가진 사용자 외에는 업데이트가 제한됩니다.
-   - ![타 직군 브랜치 접근 제한](image_c3fb00.png)
+   - [타 직군 브랜치 접근 제한](https://github.com/CK2026-Team20/TitleProject/rules/22384476?ref=refs%2Fheads%2Fmain)
 
 3. **아트 리소스 취합자 전용 규칙**
    - (이펙트 리소스 취합자)는 오직 `resources/assets` 브랜치에만 접근 및 작업이 허용됩니다.
@@ -42,7 +42,7 @@
 - [C# 명명 규칙](https://learn.microsoft.com/ko-kr/dotnet/csharp/fundamentals/coding-style/identifier-names)
 
 ### 커밋 메시지 컨벤션
-모든 커밋 메시지는 아래의 표준 규칙을 따르어야 합니다.
+모든 커밋 메시지는 아래의 표준 규칙을 따라야 합니다.
 - [커밋 메시지 규칙](https://www.conventionalcommits.org/en/v1.0.0/)
 
 #### 커밋 메시지 형식 리스트
